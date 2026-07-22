@@ -1,0 +1,10 @@
+scripts/backup_configuration.sh: PASS
+scripts/deploy.sh: PASS
+scripts/generate_test_event.sh: PASS
+scripts/health_check.sh: PASS
+scripts/install_agent_linux.sh: PASS
+scripts/install_agent_macos.sh: PASS
+scripts/render_inventory.sh: PASS
+scripts/restore_configuration.sh: PASS
+scripts/test_indexer_failure.sh: PASS
+scripts/test_manager_worker_failure.sh: PASS
