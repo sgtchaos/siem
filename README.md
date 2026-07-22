@@ -1,4 +1,4 @@
-# Noemon Wazuh cluster deployment for AWS
+# Wazuh cluster deployment for AWS
 
 This pack provisions and configures a distributed Wazuh SIEM cluster in AWS.
 
